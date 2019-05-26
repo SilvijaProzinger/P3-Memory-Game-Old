@@ -1,5 +1,7 @@
 MEMORY GAME version 2.0
 
+LIVE PREVIEW: https://silvijaprozinger.github.io/P3-Memory-Game/
+
 Solved bugs
 
 1. When clicking too fast, one card remains opened
